@@ -1,3 +1,9 @@
+
+## High Availability Architecture
+
+![HA Architecture](HA Diagram on AWS.jpg)
+
+
 ## Overview
 
 The system is designed on AWS to support **500 requests per second** with **p99 latency under 100ms**, while remaining highly available and scalable.
