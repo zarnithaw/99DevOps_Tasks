@@ -11,19 +11,19 @@ Alternative – API gateway
 Auto Scaling allows horizontal scaling and automatic replacement of failed instances.
 Alternative – Amazon ECS
 
-3. Redis (ElastiCache)
+4. Redis (ElastiCache)
 Used for frequently accessed data in memory to reduce database load and achieve low latency.
 Alternative – Amazon ElastiCache for Memcached
 
-4. Aurora PostgreSQL (Multi-AZ)
+5. Aurora PostgreSQL (Multi-AZ)
 Stores users, orders, and trades. Provides automatic failover and high availability.
 Alternative – Amazon RDS for PostgreSQL
 
-5. NAT Gateway (per AZ)
+6. NAT Gateway (per AZ)
 Allows private instances to access the internet securely.
 Alternative – NAT Instance
 
-6. Internet Gateway
+7. Internet Gateway
 Allows external users to access the application hosted inside the VPC.
 Alternative – Amazon CloudFrontHow the Architecture Scales
 
