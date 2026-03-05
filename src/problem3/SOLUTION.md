@@ -1,4 +1,4 @@
-Following steps I will follow to resolve the issue.
+**Following steps I will follow to resolve the issue.**
 
 1) Check disk usage of file system
   o df -h
