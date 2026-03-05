@@ -1,7 +1,5 @@
 
-## High Availability Architecture
-
-![HA Architecture](HA Diagram on AWS.jpg)
+![HA Architecture](HA%20Diagram%20on%20AWS.jpg)
 
 
 ## Overview
