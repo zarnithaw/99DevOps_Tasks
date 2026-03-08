@@ -25,3 +25,14 @@
 
 - **Added health checks to PostgreSQL**  
   Implemented a health check using `pg_isready` so that dependent services can verify when the database is ready to accept connections.
+
+
+
+## Production Improvements
+
+- **Add monitoring (Prometheus + Grafana)**  
+  Implement monitoring to collect metrics from the services and visualize system performance and health. This helps detect issues early and provides better operational visibility.
+
+- **Add readiness and liveness checks**  
+  Implement readiness and liveness probes so that orchestration platforms or monitoring systems can detect unhealthy services and take corrective actions automatically.
+
