@@ -1,3 +1,8 @@
+## Error Screenshot
+
+![Error Screenshot](Error%20Occurred.PNG)
+
+
 ## Problems Identified
 
 
